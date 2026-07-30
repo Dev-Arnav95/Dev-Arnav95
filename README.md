@@ -1,7 +1,7 @@
 # ⚡ Hi there, I'm Arnav! (`@Dev-Arnav95`)
-> *Portfolio:* ['Dev-Arnav95.github.io'](dev-arnav95.github.io)
+> *Portfolio:* [`Dev-Arnav95.github.io`](dev-arnav95.github.io)
+---
 > *Building custom software, web applications, and security scripts.*
-
 ---
 
 ### 🚀 About Me
