@@ -17,7 +17,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Arnav's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Arnav95&theme=2077)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Arnav95&theme=dark&hide_border=true)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Dev-Arnav95&theme=2077)
 
 ---
