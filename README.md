@@ -17,9 +17,8 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Arnav's GitHub Stats](https://github-readme-stats-eight-nu.vercel.app/api?username=Dev-Arnav95&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=Dev-Arnav95&layout=compact&theme=dark&hide_border=true)
+![Arnav's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Arnav95&theme=2077)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Dev-Arnav95&theme=2077)
 
 ---
 
