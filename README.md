@@ -1,16 +1,25 @@
-## Hi there 👋
+# ⚡ Hi there, I'm Arnav! (`@Dev-Arnav95`)
 
-<!--
-**Dev-Arnav95/Dev-Arnav95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Building custom software, web applications, and security scripts.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+* 💻 **What I Do:** Hobby-build web apps, custom tools, and explore pen testing.
+* 🛠️ **Current Focus:** Reviving old games, porting games to the WWW, and focusing on Java/python applications.
+* 📬 **Get in Touch:** Reach out directly at [`arnav95012@gmail.com`](mailto:arnav95012@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Tools
+`Python` • `HTML5/CSS3` • `Git/GitHub` • `Linux` • `Burp Suite`
+
+---
+
+### 📊 GitHub Stats
+![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Arnav95&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Arnav95&layout=compact&theme=dark&hide_border=true)
+
+---
+
+⭐ **If you find my projects helpful or interesting, feel free to drop a star!**
