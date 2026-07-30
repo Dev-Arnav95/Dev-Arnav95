@@ -11,13 +11,6 @@
 
 ---
 
-### 📌 Featured Projects
-* 🎮 **[Horizon Drift](https://github.com/Dev-Arnav95)** — A custom Minecraft launcher featuring instance management and GitHub Pages integration.
-* 🎬 **[Streamflix-0](https://github.com/Dev-Arnav95)** — A responsive movie streaming web app featuring a Netflix-inspired UI, custom search, and TMDB API integration.
-* 🎵 **[Sona Player](https://github.com/Dev-Arnav95)** — A web-based audio player with a mobile-friendly interface integrated with the YouTube API.
-
----
-
 ### 🛠️ Tech Stack & Tools
 `Java` • `Python` • `JavaScript` • `HTML5/CSS3` • `Git/GitHub` • `Linux` • `Burp Suite`
 
