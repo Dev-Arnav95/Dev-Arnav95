@@ -17,8 +17,18 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Arnav95&theme=dark&hide_border=true)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Dev-Arnav95&theme=2077)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dev-Arnav95&label=Profile%20Views&color=0e75b6&style=flat)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Arnav95&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Arnav95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Arnav95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Arnav95&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=161b22&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
